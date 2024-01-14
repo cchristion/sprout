@@ -1,6 +1,7 @@
 # sprout
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 graph TD
 
     subgraph Python
