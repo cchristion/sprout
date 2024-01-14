@@ -27,6 +27,7 @@ graph TD
 
     subgraph Assessing 
     r1([Rust])
+    g1([Go])
     end
 
     subgraph Challenges
